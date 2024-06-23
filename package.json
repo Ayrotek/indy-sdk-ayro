@@ -1,8 +1,8 @@
 {
-  "name": "indy-sdk-react-native",
-  "title": "React Native Indy SDK Wrapper",
-  "version": "0.3.1",
-  "description": "React Native Indy SDK Wrapper",
+  "name": "indy-sdk-ayro",
+  "title": "React Native Indy SDK Ayrotek Wrapper",
+  "version": "0.0.1",
+  "description": "React Native Indy SDK Ayrotek Wrapper",
   "main": "lib/index.js",
   "scripts": {
     "check-format": "prettier --check 'src/**/*.js'",
@@ -21,11 +21,12 @@
     "react-native",
     "Hyperledger Indy",
     "Hyperledger Aries",
-    "Indy SDK"
+    "Indy SDK",
+	"Ayrotek"
   ],
   "author": {
-    "name": "Jakub Koci",
-    "email": "jakub.koci@absa.africa"
+    "name": "Omer Faruk ZORLU",
+    "email": "omer.zorlu@ayrotek.com.tr"
   },
   "license": "Apache-2.0",
   "licenseFilename": "LICENSE.md",
